@@ -19,7 +19,7 @@
     // Do any additional setup after loading the view, typically from a nib.
     
     NSLog(@"From the beginning!");
-    
+    NSLog(@"The build changed!");
     
 }
 
