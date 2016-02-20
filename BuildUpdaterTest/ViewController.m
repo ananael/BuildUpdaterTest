@@ -20,6 +20,7 @@
     
     NSLog(@"From the beginning!");
     NSLog(@"The build changed!");
+    NSLog(@"Did some funky stuff on Github");
     
 }
 
