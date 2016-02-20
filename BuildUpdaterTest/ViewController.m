@@ -22,6 +22,11 @@
     NSLog(@"The build changed!");
     NSLog(@"Did some funky stuff on Github");
     
+    NSInteger one = 1;
+    NSInteger two = 2;
+    NSInteger combo = one + two;
+    NSLog(@"%ld", (long)combo);
+    
 }
 
 - (void)didReceiveMemoryWarning {
