@@ -279,6 +279,7 @@
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "${PROJECT_DIR}/tools/bump_build_number.sh \"${PROJECT_DIR}/${INFOPLIST_FILE}\"";
+			showEnvVarsInLog = 0;
 		};
 /* End PBXShellScriptBuildPhase section */
 
@@ -517,6 +518,7 @@
 				D22CC2741C6EC6A7004544CE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D22CC2751C6EC6A7004544CE /* Build configuration list for PBXNativeTarget "BuildUpdaterTestTests" */ = {
 			isa = XCConfigurationList;
@@ -525,6 +527,7 @@
 				D22CC2771C6EC6A7004544CE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D22CC2781C6EC6A7004544CE /* Build configuration list for PBXNativeTarget "BuildUpdaterTestUITests" */ = {
 			isa = XCConfigurationList;
@@ -533,6 +536,7 @@
 				D22CC27A1C6EC6A7004544CE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
